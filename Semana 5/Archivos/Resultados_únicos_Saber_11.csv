@@ -1,0 +1,53 @@
+PERIODO,ESTU_GENERO,ESTU_COD_RESIDE_DEPTO,FAMI_ESTRATOVIVIENDA,FAMI_EDUCACIONPADRE,FAMI_EDUCACIONMADRE,FAMI_TIENEINTERNET,FAMI_TIENECOMPUTADOR,PUNT_GLOBAL,COLE_BILINGUE,COLE_CALENDARIO,COLE_GENERO,COLE_JORNADA
+2024-1,F,11,3,Educación profesional completa,Educación profesional completa,Si,Si,298,N,A,MIXTO,MAÑANA
+2024-1,M,11,2,Bachillerato completo,Educación técnica o tecnológica completa,Si,Si,276,N,A,MIXTO,MAÑANA
+2024-1,F,11,4,Postgrado,Educación profesional completa,Si,Si,334,S,A,FEMENINO,MAÑANA
+2024-1,M,11,1,Primaria incompleta,Primaria completa,No,No,223,N,B,MIXTO,TARDE
+2024-1,F,11,3,Bachillerato completo,Bachillerato completo,Si,Si,287,N,A,MIXTO,MAÑANA
+2024-1,M,11,5,Educación profesional completa,Educación profesional completa,Si,Si,312,N,A,MIXTO,MAÑANA
+2024-1,F,11,2,Educación técnica o tecnológica completa,Bachillerato completo,Si,No,269,N,A,MIXTO,TARDE
+2024-1,M,11,3,Bachillerato completo,Educación técnica o tecnológica completa,Si,Si,291,N,A,MIXTO,MAÑANA
+2024-1,F,11,4,Postgrado,Postgrado,Si,Si,356,S,A,FEMENINO,MAÑANA
+2024-1,M,11,1,Bachillerato incompleto,Bachillerato completo,No,No,241,N,B,MIXTO,TARDE
+2024-1,F,11,6,Educación profesional completa,Educación profesional completa,Si,Si,324,S,A,FEMENINO,MAÑANA
+2024-1,M,11,2,Primaria completa,Educación técnica o tecnológica completa,Si,Si,254,N,A,MIXTO,TARDE
+2024-1,F,11,3,Educación profesional completa,Educación profesional completa,Si,Si,305,N,A,MIXTO,MAÑANA
+2024-1,M,11,4,Postgrado,Educación profesional completa,Si,Si,341,N,A,MASCULINO,MAÑANA
+2024-1,F,11,1,Primaria completa,Bachillerato completo,No,No,238,N,B,MIXTO,TARDE
+2024-1,M,11,3,Bachillerato completo,Bachillerato completo,Si,Si,282,N,A,MIXTO,MAÑANA
+2024-1,F,11,5,Educación profesional completa,Educación profesional completa,Si,Si,318,N,A,MIXTO,MAÑANA
+2024-1,M,11,2,Educación técnica o tecnológica completa,Bachillerato completo,Si,No,267,N,A,MIXTO,TARDE
+2024-1,F,11,4,Educación profesional completa,Educación profesional completa,Si,Si,329,S,A,FEMENINO,MAÑANA
+2024-1,M,11,3,Bachillerato completo,Educación técnica o tecnológica completa,Si,Si,288,N,A,MIXTO,MAÑANA
+2024-1,F,11,1,Bachillerato incompleto,Primaria completa,No,No,231,N,B,MIXTO,TARDE
+2024-1,M,11,6,Postgrado,Educación profesional completa,Si,Si,347,S,A,MASCULINO,MAÑANA
+2024-1,F,11,2,Educación técnica o tecnológica completa,Educación técnica o tecnológica completa,Si,Si,273,N,A,MIXTO,TARDE
+2024-1,M,11,3,Educación profesional completa,Bachillerato completo,Si,Si,296,N,A,MIXTO,MAÑANA
+2024-1,F,11,4,Postgrado,Postgrado,Si,Si,361,S,A,FEMENINO,MAÑANA
+2024-1,M,11,1,Primaria incompleta,Bachillerato incompleto,No,No,219,N,B,MIXTO,NOCHE
+2024-1,F,11,5,Educación profesional completa,Educación profesional completa,Si,Si,321,N,A,MIXTO,MAÑANA
+2024-1,M,11,2,Bachillerato completo,Educación técnica o tecnológica completa,Si,Si,279,N,A,MIXTO,MAÑANA
+2024-1,F,11,3,Educación técnica o tecnológica completa,Educación profesional completa,Si,Si,301,N,A,MIXTO,MAÑANA
+2024-1,M,11,4,Educación profesional completa,Educación profesional completa,Si,Si,337,N,A,MASCULINO,MAÑANA
+2024-1,F,11,1,Bachillerato completo,Bachillerato completo,Si,No,259,N,B,MIXTO,NOCHE
+2024-1,M,11,6,Postgrado,Postgrado,Si,Si,352,S,A,MASCULINO,MAÑANA
+2024-1,F,11,3,Educación profesional completa,Educación profesional completa,Si,Si,307,N,A,MIXTO,MAÑANA
+2024-1,M,11,2,Educación técnica o tecnológica completa,Bachillerato completo,Si,Si,271,N,A,MIXTO,TARDE
+2024-1,F,11,5,Postgrado,Educación profesional completa,Si,Si,343,S,A,FEMENINO,MAÑANA
+2024-1,M,11,1,Primaria completa,Primaria completa,No,No,236,N,B,MIXTO,NOCHE
+2024-1,F,11,4,Educación profesional completa,Educación profesional completa,Si,Si,327,N,A,MIXTO,MAÑANA
+2024-1,M,11,3,Bachillerato completo,Educación técnica o tecnológica completa,Si,Si,284,N,A,MIXTO,MAÑANA
+2024-1,F,11,2,Educación técnica o tecnológica completa,Educación profesional completa,Si,No,265,N,A,MIXTO,TARDE
+2024-1,M,11,6,Educación profesional completa,Educación profesional completa,Si,Si,315,S,A,MASCULINO,MAÑANA
+2024-1,F,11,1,Bachillerato incompleto,Bachillerato incompleto,No,No,228,N,B,MIXTO,NOCHE
+2024-1,M,11,4,Postgrado,Postgrado,Si,Si,358,S,A,MASCULINO,MAÑANA
+2024-1,F,11,3,Educación profesional completa,Bachillerato completo,Si,Si,293,N,A,MIXTO,MAÑANA
+2024-1,M,11,5,Educación profesional completa,Educación profesional completa,Si,Si,319,N,A,MIXTO,MAÑANA
+2024-1,F,11,2,Bachillerato completo,Educación técnica o tecnológica completa,Si,Si,277,N,A,MIXTO,TARDE
+2024-1,M,11,3,Educación técnica o tecnológica completa,Educación profesional completa,Si,Si,299,N,A,MIXTO,MAÑANA
+2024-1,F,11,4,Educación profesional completa,Educación profesional completa,Si,Si,331,N,A,FEMENINO,MAÑANA
+2024-1,M,11,1,Primaria completa,Bachillerato completo,No,No,244,N,B,MIXTO,NOCHE
+2024-1,F,11,6,Postgrado,Educación profesional completa,Si,Si,349,S,A,FEMENINO,MAÑANA
+2024-1,M,11,2,Educación técnica o tecnológica completa,Educación técnica o tecnológica completa,Si,Si,268,N,A,MIXTO,TARDE
+2024-1,F,11,3,Bachillerato completo,Educación profesional completa,Si,Si,303,N,A,MIXTO,MAÑANA
+2024-1,M,11,5,Educación profesional completa,Postgrado,Si,Si,339,S,A,MASCULINO,MAÑANA
